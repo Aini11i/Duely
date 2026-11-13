@@ -1,2 +1,2 @@
-# Dueli
+# Duely
 Project kerja sama kelompok
